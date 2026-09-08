@@ -1,0 +1,45 @@
+{
+  "type": "TimelinePage",
+  "slug": "hootiefest-example",
+  "title": "Hootiefest!",
+  "date": "January 26 - 30, 2022",
+  "intro": "Amy & I were blessed to attend Hootiefest in Riviera Maya Mexico in late January. It was a truly great time!",
+  "sections": [
+    {
+      "leftImage": "image/202201_hootiefest/02.jpg",
+      "leftCaption": "",
+      "rightImage": "image/202201_hootiefest/01.jpg",
+      "rightCaption": "Leaving Montana, ready for some music and sunshine!"
+    },
+    {
+      "leftImage": "image/202201_hootiefest/03.jpg",
+      "leftCaption": "The event was held at the Moon Palace Resort, it was a lovely spot.",
+      "rightImage": "image/202201_hootiefest/04.jpg",
+      "rightCaption": "A look at one of the many pools lit up for the evening."
+    },
+    {
+      "leftImage": "image/202201_hootiefest/05.jpg",
+      "leftCaption": "The first night was a little rainy, but we didn't mind.",
+      "rightImage": "image/202201_hootiefest/06.jpg",
+      "rightCaption": "We are ready to hear some great music!"
+    },
+    {
+      "leftImage": "image/202201_hootiefest/07.jpg",
+      "leftCaption": "Better Than Ezra, a New Orleans band that I love. They put on a great show.",
+      "rightImage": "image/202201_hootiefest/08.jpg",
+      "rightCaption": "Hootie & the Blowfish played for three of the four nights, it was awesome."
+    },
+    {
+      "leftImage": "image/202201_hootiefest/09.jpg",
+      "leftCaption": "Darius & Mark, givin' their all",
+      "rightImage": "image/202201_hootiefest/10.jpg",
+      "rightCaption": "I didn't know him then, but in July of this year my sister and I met this guy, \"VIP Lee.\" He is SO nice!"
+    },
+    {
+      "leftImage": "image/202201_hootiefest/11.jpg",
+      "leftCaption": "Fun times, and more to come!",
+      "rightImage": "image/202201_hootiefest/12.jpg",
+      "rightCaption": "Enjoying the pool on our first full day at the resort."
+    }
+  ]
+}

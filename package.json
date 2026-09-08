@@ -1,0 +1,11 @@
+{
+  "name": "casazza-timeline-visual-editor",
+  "private": true,
+  "scripts": {
+    "build": "node scripts/build-timeline.js"
+  },
+  "devDependencies": {
+    "@stackbit/types": "^2.0.0",
+    "@stackbit/cms-git": "^1.0.0"
+  }
+}
