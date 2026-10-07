@@ -1,0 +1,16 @@
+{
+  "title": "Sights & Scenes",
+  "date": "May 2026",
+  "intro": "This is a test timeline.",
+  "sections": [
+    {
+      "heading": "Test Section",
+      "items": [
+        {
+          "image": "",
+          "description": ""
+        }
+      ]
+    }
+  ]
+}
