@@ -1,16 +1,21 @@
+
 {
+  "slug": "test-timeline",
   "title": "Sights & Scenes",
   "date": "May 2026",
   "intro": "This is a test timeline.",
   "sections": [
     {
       "heading": "Test Section",
+      "layout": "two",
       "items": [
         {
           "image": "",
-          "description": ""
+          "alt": "Test photo",
+          "description": "Test photo caption."
         }
       ]
     }
   ]
 }
+
