@@ -1077,3 +1077,56 @@ body > table td {
     padding: 8px !important;
 }
 
+
+
+
+/* ===== MOBILE RESPONSIVENESS FOR IMAGE TABLES ===== */
+@media screen and (max-width: 767px) {
+
+    /* Make the main table fit the mobile screen */
+    body > table {
+        width: 100% !important;
+        max-width: 100% !important;
+        table-layout: auto !important;
+    }
+
+    /* Stack the two columns vertically */
+    body > table tr {
+        display: flex !important;
+        flex-direction: column !important;
+        width: 100% !important;
+    }
+
+    /* Make each table cell occupy a full row */
+    body > table td {
+        display: block !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        height: auto !important;
+        box-sizing: border-box !important;
+        padding: 8px 10px !important;
+        overflow-wrap: break-word;
+    }
+
+    /* Keep images within the mobile screen */
+    body > table td img {
+        display: block !important;
+        width: 100% !important;
+        max-width: 100% !important;
+        height: auto !important;
+        object-fit: contain !important;
+        margin: 0 auto !important;
+    }
+
+    /* Prevent centered image paragraphs from overflowing */
+    body > table td p {
+        max-width: 100% !important;
+        box-sizing: border-box !important;
+    }
+
+    /* Remove unnecessary empty spacing rows */
+    body > table tr td:empty {
+        padding-top: 0 !important;
+        padding-bottom: 0 !important;
+    }
+}
